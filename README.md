@@ -44,4 +44,8 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0229-majority-element-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
