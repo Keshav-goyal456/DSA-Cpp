@@ -56,6 +56,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0050-powx-n/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +66,8 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | ------- | ------- |
 | [0136-single-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0136-single-number/) | Easy |
 | [0260-single-number-iii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0260-single-number-iii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
