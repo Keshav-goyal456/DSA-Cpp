@@ -18,6 +18,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -34,6 +35,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0004-median-of-two-sorted-arrays](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0035-search-insert-position/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +48,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0011-container-with-most-water](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
