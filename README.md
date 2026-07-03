@@ -23,6 +23,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0229-majority-element-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0260-single-number-iii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
