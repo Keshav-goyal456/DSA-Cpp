@@ -11,6 +11,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0011-container-with-most-water](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0053-maximum-subarray/) | Medium |
@@ -35,6 +36,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0162-find-peak-element/) | Medium |
