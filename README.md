@@ -42,6 +42,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0033-search-in-rotated-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -81,6 +82,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0009-palindrome-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0069-sqrtx/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
