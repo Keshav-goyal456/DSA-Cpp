@@ -30,6 +30,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0260-single-number-iii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0260-single-number-iii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,4 +110,8 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0238-product-of-array-except-self/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
