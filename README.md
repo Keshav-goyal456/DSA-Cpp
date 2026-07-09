@@ -14,6 +14,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0033-search-in-rotated-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -38,6 +39,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0268-missing-number/) | Easy |
