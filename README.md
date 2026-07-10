@@ -58,6 +58,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0441-arranging-coins/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -99,6 +100,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0069-sqrtx](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0441-arranging-coins/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
