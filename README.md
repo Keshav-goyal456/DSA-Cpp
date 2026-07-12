@@ -19,6 +19,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0066-plus-one](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -76,6 +77,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Greedy
@@ -86,6 +88,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0268-missing-number/) | Easy |
