@@ -28,6 +28,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0162-find-peak-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0260-single-number-iii/) | Medium |
@@ -43,6 +44,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0001-two-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
@@ -90,6 +92,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0075-sort-colors](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0268-missing-number/) | Easy |
 ## Counting
