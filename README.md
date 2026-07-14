@@ -11,6 +11,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0011-container-with-most-water](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0035-search-insert-position/) | Easy |
@@ -78,6 +79,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0011-container-with-most-water](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
