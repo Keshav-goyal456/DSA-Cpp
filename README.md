@@ -37,6 +37,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0414-third-maximum-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1929-concatenation-of-array/) | Easy |
@@ -99,6 +100,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0229-majority-element-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0414-third-maximum-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0268-missing-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0441-arranging-coins/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
