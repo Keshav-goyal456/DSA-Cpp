@@ -85,6 +85,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0075-sort-colors](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0344-reverse-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0344-reverse-string/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -147,4 +148,8 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
