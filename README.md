@@ -89,6 +89,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0151-reverse-words-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Greedy
@@ -159,6 +160,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0125-valid-palindrome](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Stack
