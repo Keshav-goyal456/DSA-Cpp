@@ -8,7 +8,7 @@ public:
             if(isPrime[i]){
                 count++;
 
-                for(int j=i*2;j<n;j=j+i){
+                for(long long j = 1LL * i * i;j<n;j=j+i){
                     isPrime[j]=false;
                 }
             }
