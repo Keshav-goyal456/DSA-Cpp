@@ -41,6 +41,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0628-maximum-product-of-three-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1470-shuffle-the-array/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -179,4 +180,8 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0204-count-primes/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
