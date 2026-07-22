@@ -18,6 +18,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0041-first-missing-positive](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
@@ -61,6 +62,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -183,5 +185,6 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
