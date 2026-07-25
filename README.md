@@ -10,6 +10,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0004-median-of-two-sorted-arrays](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0031-next-permutation/) | Medium |
@@ -94,6 +95,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0031-next-permutation/) | Medium |
@@ -115,6 +117,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
