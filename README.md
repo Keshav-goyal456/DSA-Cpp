@@ -47,6 +47,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0560-subarray-sum-equals-k](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1929-concatenation-of-array/) | Easy |
@@ -111,6 +112,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0443-string-compression](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +130,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0268-missing-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
