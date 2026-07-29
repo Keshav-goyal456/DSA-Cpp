@@ -18,6 +18,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
+| [0046-permutations](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
@@ -238,6 +239,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
