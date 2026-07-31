@@ -17,6 +17,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0033-search-in-rotated-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0051-n-queens/) | Hard |
@@ -62,6 +63,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0001-two-sum/) | Easy |
+| [0037-sudoku-solver](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0217-contains-duplicate/) | Easy |
@@ -224,6 +226,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -240,6 +243,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0078-subsets/) | Medium |
