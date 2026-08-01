@@ -18,6 +18,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0051-n-queens/) | Hard |
@@ -244,6 +245,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0078-subsets/) | Medium |
