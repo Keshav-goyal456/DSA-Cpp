@@ -171,6 +171,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
@@ -207,6 +208,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0443-string-compression/) | Medium |
@@ -250,4 +252,5 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0051-n-queens](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
