@@ -24,6 +24,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0051-n-queens](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0054-spiral-matrix/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0075-sort-colors/) | Medium |
@@ -171,6 +172,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0053-maximum-subarray/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0064-minimum-path-sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -234,6 +236,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0054-spiral-matrix/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1572-matrix-diagonal-sum/) | Easy |
