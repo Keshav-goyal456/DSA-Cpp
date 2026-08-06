@@ -166,6 +166,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0628-maximum-product-of-three-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
@@ -231,6 +232,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0204-count-primes/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
