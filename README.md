@@ -113,6 +113,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0018-4sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
@@ -212,6 +213,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -261,4 +263,20 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0078-subsets](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
