@@ -56,6 +56,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0704-binary-search](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -144,6 +145,7 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | [0414-third-maximum-number](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
@@ -280,4 +282,12 @@ Data Structures and Algorithms practice in C++.  Organized by topic with clean, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1051-height-checker/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/Keshav-goyal456/DSA-Cpp/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
